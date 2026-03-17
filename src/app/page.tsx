@@ -44,7 +44,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Descubra o Método Exato para Transformar sua Fábrica de Sorvetes em uma Máquina de Vendas B2B Altamente Lucrativa e Previsível"
+          title="Descubra o Método Exato para Transformar sua Fábrica de Sorvetes em uma Máquina de Vendas Altamente Lucrativa"
           description="Pare de depender do boca a boca ou de vendedores que apenas tiram pedidos. Aprenda a estruturar um processo comercial em duas camadas que multiplica seus Pontos de Venda (PDVs) e esmaga a concorrência — sem precisar baixar o seu preço."
           tag="Guia da Indústria"
           tagIcon={BookOpen}
@@ -143,7 +143,7 @@ export default function LandingPage() {
       <div id="author" data-section="author">
         <TeamCardEleven
           title="Sobre Jhonatan Sousa"
-          description="Expert em Negócios e Vendas B2B. Especialista em funis avançados. Não acredita em intuição, acredita em dados, métricas e gatilhos mentais aplicados com precisão."
+          description="Especialista em Estruturação Comercial e funis de Vendas avançados. Não acredita em intuição, acredita em dados, métricas e gatilhos mentais aplicados com precisão."
           textboxLayout="default"
           useInvertedBackground={true}
           animationType="slide-up"
@@ -151,7 +151,7 @@ export default function LandingPage() {
             {
               id: "author-group",              groupTitle: "",              members: [
                 {
-                  id: "jhonatan",                  title: "Jhonatan Sousa",                  subtitle: "Fundador & Especialista em Vendas B2B",                  detail: "15+ anos de experiência em transformar fábricas de alimentos em máquinas de venda. Certificado em CRO e especialista em funis de conversão.",                  imageSrc: "http://img.b2bpic.net/free-photo/smiling-successful-middle-aged-business-leader_1262-5690.jpg",                  imageAlt: "Jhonatan Sousa - Especialista em Vendas"
+                  id: "jhonatan",                  title: "Jhonatan Sousa",                  subtitle: "Mais 18 milhões em faturamento",                  detail: "7+ anos de experiência em transformar empresas em máquinas de venda. Certificado em RD Station, Zoho CRM, Tráfego Pago, Automações e especialista em funis de conversão. Já atendeu mais de 70 empresas no Brasil, estados Unidos, Moçambique, Alemanha e Portugal.",                  imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B50916hkBOTNNMd7JFWEWueGh5/uploaded-1773788858117-rc6otu1r.png",                  imageAlt: "Jhonatan Sousa - Especialista em Vendas"
                 }
               ]
             }
@@ -177,7 +177,7 @@ export default function LandingPage() {
                 { text: "👉 SIM! QUERO GARANTIR MEU PLAYBOOK + BÔNUS" }
               ],
               features: [
-                "✅ Playbook Completo de Vendas (Manual Tático - 147 páginas)",                "✅ Scripts Prontos para Copiar e Colar (15+ scripts testados em campo)",                "✅ Template de Funil de 4 Estágios (estrutura pronta para implementar)",                "✅ Guia com 20 Objeções Resolvidas (respostas que funcionam)",                "✅ Infográficos de Implementação Passo a Passo",                "✅ Consultoria Estratégica de 1 Hora com Jhonatan (bônus para ação rápida)",                "✅ Vídeos Explicativos Completos (implementação em vídeo)",                "✅ Apresentações Prontas para Equipe (use com sua operação)",                "✅ Garantia 100% - 7 dias sem perguntas (seu risco é zero)"
+                "✅ Playbook Completo de Vendas",                "✅ Scripts Prontos para Copiar e Colar",                "✅ Template de Funil de 4 Estágios",                "✅ Guia com 20 Objeções Resolvidas (respostas que funcionam)",                "✅ Infográficos",                "✅ Consultoria Estratégica de 1 Hora com Jhonatan (bônus para ação rápida)",                "✅ Vídeos Explicativos",                "✅ Apresentações Prontas para Equipe (use com sua operação)",                "✅ Garantia 100% - 7 dias sem perguntas (seu risco é zero)"
               ]
             }
           ]}
