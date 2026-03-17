@@ -177,7 +177,7 @@ export default function LandingPage() {
                 { text: "👉 SIM! QUERO GARANTIR MEU PLAYBOOK + BÔNUS" }
               ],
               features: [
-                "✅ Manual completo de estruturação B2B (147 páginas)",                "✅ 15+ Scripts prontos para copiar e colar",                "✅ Template de funil de 4 estágios",                "✅ Planilha de rastreamento de vendas",                "✅ Guia de objeções (20 objeções resolvidas)",                "✅ BÔNUS: Mapa de KPIs e Métricas de Ouro",                "✅ BÔNUS: Mentoria gravada de 1h (ação rápida)",                "✅ Garantia 100% - 7 dias sem perguntas"
+                "✅ Playbook Completo de Vendas (Manual Tático - 147 páginas)",                "✅ Scripts Prontos para Copiar e Colar (15+ scripts testados em campo)",                "✅ Template de Funil de 4 Estágios (estrutura pronta para implementar)",                "✅ Guia com 20 Objeções Resolvidas (respostas que funcionam)",                "✅ Infográficos de Implementação Passo a Passo",                "✅ Consultoria Estratégica de 1 Hora com Jhonatan (bônus para ação rápida)",                "✅ Vídeos Explicativos Completos (implementação em vídeo)",                "✅ Apresentações Prontas para Equipe (use com sua operação)",                "✅ Garantia 100% - 7 dias sem perguntas (seu risco é zero)"
               ]
             }
           ]}
