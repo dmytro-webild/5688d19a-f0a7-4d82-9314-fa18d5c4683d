@@ -21,7 +21,7 @@ export default function LandingPage() {
       borderRadius="pill"
       contentWidth="medium"
       sizing="largeSizeMediumTitles"
-      background="fluid"
+      background="circleGradient"
       cardStyle="gradient-bordered"
       primaryButtonStyle="diagonal-gradient"
       secondaryButtonStyle="solid"
@@ -49,7 +49,7 @@ export default function LandingPage() {
           tag="Guia da Indústria"
           tagIcon={BookOpen}
           tagAnimation="slide-up"
-          background={{ variant: "fluid" }}
+          background={{ variant: "plain" }}
           buttons={[
             { text: "👉 QUERO ACESSAR O PLAYBOOK AGORA", href: "#offer" }
           ]}
