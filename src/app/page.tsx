@@ -45,11 +45,11 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroSplit
           title="Descubra o Método Exato para Transformar sua Fábrica de Sorvetes em uma Máquina de Vendas B2B Altamente Lucrativa e Previsível"
-          description="Pare de depender do \"boca a boca\" ou de vendedores que apenas tiram pedidos. Aprenda a estruturar um processo comercial em duas camadas que multiplica seus Pontos de Venda (PDVs) e esmaga a concorrência — sem precisar baixar o seu preço."
+          description="Pare de depender do boca a boca ou de vendedores que apenas tiram pedidos. Aprenda a estruturar um processo comercial em duas camadas que multiplica seus Pontos de Venda (PDVs) e esmaga a concorrência — sem precisar baixar o seu preço."
           tag="Guia da Indústria"
           tagIcon={BookOpen}
           tagAnimation="slide-up"
-          background={{ variant: "plain" }}
+          background={{ variant: "fluid" }}
           buttons={[
             { text: "👉 QUERO ACESSAR O PLAYBOOK AGORA", href: "#offer" }
           ]}
