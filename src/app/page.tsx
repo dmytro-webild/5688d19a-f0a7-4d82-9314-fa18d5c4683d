@@ -42,7 +42,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="hero" data-section="hero" style={{ paddingTop: "80px", paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="hero" data-section="hero" style={{ paddingTop: "80px", paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <HeroSplit
           title="Descubra o Método Exato para Transformar sua Fábrica de Sorvetes em uma Máquina de Vendas Altamente Lucrativa"
           description="Pare de depender do boca a boca ou de vendedores que apenas tiram pedidos. Aprenda a estruturar um processo comercial em duas camadas que multiplica seus Pontos de Venda (PDVs) e esmaga a concorrência — sem precisar baixar o seu preço."
@@ -63,7 +63,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="problem" data-section="problem" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="problem" data-section="problem" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <TextAbout
           tag="O Desafio"
           tagIcon={AlertCircle}
@@ -74,7 +74,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="solution" data-section="solution" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="solution" data-section="solution" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <FeatureCardSeven
           title="Apresentamos o Playbook Interno de Estruturação Comercial B2B"
           description="O Guia Definitivo do Método Jhonatan Sousa para Indústrias de Sorvetes e Picolés. Este não é mais um e-book teórico. É um manual tático de 'engenharia reversa' de vendas que transforma sua operação comercial."
@@ -102,7 +102,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="benefits" data-section="benefits" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="benefits" data-section="benefits" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <MetricCardSeven
           title="6 Pilares do Playbook"
           description="Domina cada aspecto essencial da venda B2B para fábricas de sorvetes"
@@ -140,7 +140,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="author" data-section="author" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="author" data-section="author" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <TeamCardEleven
           title="Sobre Jhonatan Sousa"
           description="Especialista em Estruturação Comercial e funis de Vendas avançados. Não acredita em intuição, acredita em dados, métricas e gatilhos mentais aplicados com precisão."
@@ -160,7 +160,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="offer" data-section="offer" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="offer" data-section="offer" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <PricingCardEight
           title="Quanto vale ter previsibilidade de caixa todos os meses?"
           description="Fechando apenas UM novo PDV, o lucro do comodato já paga isso dezenas de vezes. Aqui está exatamente como fazer isso acontecer."
@@ -185,7 +185,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="guarantee" data-section="guarantee" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="guarantee" data-section="guarantee" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <SocialProofOne
           names={[
             "Fábrica Sorvetes XYZ",            "Gelato Gourmet Brasil",            "Picolés da Serra",            "Indústria de Sorveteria",            "Frozen Delights Co.",            "Premium Gelato Factory",            "Ice Cream Innovation Hub"
@@ -205,7 +205,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="faq" data-section="faq" style={{ paddingBottom: "var(--padding-hero-page-padding)" }}>
+      <div id="faq" data-section="faq" style={{ paddingBottom: "var(--padding-hero-page-padding-half)" }}>
         <FaqDouble
           title="Perguntas Frequentes"
           description="Tire suas dúvidas sobre o Playbook e comece a transformar suas vendas hoje"
