@@ -27,7 +27,7 @@ export default function LandingPage() {
       secondaryButtonStyle="solid"
       headingFontWeight="medium"
     >
-      <div id="nav" data-section="nav">
+      <div id="nav" data-section="nav" style={{ position: "fixed", top: 0, left: 0, right: 0, zIndex: 1000 }}>
         <NavbarStyleFullscreen
           navItems={[
             { name: "O Problema", id: "problem" },
@@ -42,7 +42,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="hero" data-section="hero">
+      <div id="hero" data-section="hero" style={{ paddingTop: "80px" }}>
         <HeroSplit
           title="Descubra o Método Exato para Transformar sua Fábrica de Sorvetes em uma Máquina de Vendas Altamente Lucrativa"
           description="Pare de depender do boca a boca ou de vendedores que apenas tiram pedidos. Aprenda a estruturar um processo comercial em duas camadas que multiplica seus Pontos de Venda (PDVs) e esmaga a concorrência — sem precisar baixar o seu preço."
